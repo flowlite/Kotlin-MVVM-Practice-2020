@@ -3,9 +3,10 @@
 Project for practicing MVVM architecture in Kotlin Android app
 <br>
 <br>
-based on this article: (https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide)
+based on this article, but using Retrofit:
 <br>
-but using Retrofit
+https://blog.mindorks.com/mvvm-architecture-android-tutorial-for-beginners-step-by-step-guide
+<br>
 
 <!-- Templates for readme checklist -->
 <!-- 
